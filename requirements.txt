@@ -3,7 +3,7 @@
 #
 numpy
 pandas
-matplotlib
+matplotlib==3.*
 time
 ipywidgets
 IPython
