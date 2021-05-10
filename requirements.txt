@@ -1,0 +1,9 @@
+#
+#interactive_erm requirements
+#
+numpy
+pandas
+matplotlib
+time
+ipywidgets
+IPython
